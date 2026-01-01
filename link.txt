@@ -1,0 +1,202 @@
+Web Name: WorkChest
+Link: https://workchest.com/
+Web Name: Upwork
+Link: https://www.upwork.com/
+Web Name: Guru
+Link: https://www.guru.com/
+Web Name: Fiverr
+Link: https://www.fiverr.com/
+Web Name: Freelancer
+Link: https://www.freelancer.com/
+Web Name: 99 Designs
+Link: http://99designs.com/
+Web Name: Peopleperhour
+Link: https://www.peopleperhour.com/
+Web Name: Toptal
+Link: http://www.toptal.com/
+Web Name: Craigslist
+Link: https://www.craigslist.org/about/sites
+Web Name: Damongo
+Link: http://www.damongo.com/
+Web Name: Wonolo
+Link: http://wonolo.com/
+Web Name: SimplyHired
+Link: http://www.simplyhired.com/
+Web Name: Fourerr
+Link: http://www.fourerr.com/
+Web Name: Aquent
+Link: https://aquent.com/
+Web Name: SolidGigs
+Link: https://solidgigs.com/
+Web Name: Outsourcely
+Link: https://www.outsourcely.com/
+Web Name: We Work Remotely
+Link: https://weworkremotely.com/
+Web Name: Skillbridge
+Link: http://www.skillbridge.co/
+Web Name: MeFi Jobs
+Link: http://jobs.metafilter.com/
+Web Name: Web NameMaster
+Link: https://www.Web Namemaster.com/
+Web Name: Hirable
+Link: http://wearehirable.com/
+Web Name: FreeeUp
+Link: https://freeup.net/
+Web Name: Crew
+Link: https://crew.co/
+Web Name: IMGiGz
+Link: http://imgigz.com/
+Web Name: LinkedIn
+Link: https://www.linkedin.com/
+Web Name: College Recruiter
+Link: https://www.collegerecruiter.com/
+Web Name: Findeavor
+Link: http://www.findeavor.com/
+Web Name: Gun.io
+Link: https://gun.io/
+Web Name: Just Answer
+Link: http://www.justanswer.com/
+Web Name: Catalant
+Link: https://catalant.com/
+Web Name: JobBoy
+Link: http://www.jobboy.com/
+Web Name: OnSite
+Link: http://onsite.io/
+Web Name: Microworkers
+Link: https://microworkers.com/
+Web Name: Sologig
+Link: http://www.sologig.com/
+Web Name: The Creative Group
+Link: https://www.roberthalf.com/creativegroup
+Web Name: FlexJobs
+Link: https://www.flexjobs.com/
+Web Name: Crowded
+Link: http://www.crowded.com/
+Web Name: Freelanced
+Link: https://www.freelanced.com/
+Web Name: TaskRabbit
+Link: https://www.taskrabbit.com/
+Web Name: Genuine Jobs
+Link: http://www.genuinejobs.com/index.php
+Web Name: Remote OK
+Link: https://remoteok.com/
+Web Name: Smashing Jobs
+Link: http://jobs.smashingmagazine.com/
+Web Name: HireMyFriend
+Link: https://hiremyfriend.io/
+Web Name: Mechanical Turk
+Link: https://www.mturk.com/mturk/welcome
+Web Name: YunoJuno
+Link: https://www.yunojuno.com/
+Web Name: Upstack
+Link: https://upstackhq.com/
+Web Name: Mediabistro
+Link: https://www.mediabistro.com/
+Web Name: Gun.io
+Link: https://gun.io/
+Web Name: Belay
+Link: https://belaysolutions.com/
+Web Name: Krop
+Link: http://www.krop.com/
+Web Name: Zeerk
+Link: https://zeerk.com/
+Web Name: Behance Job
+Link: https://www.behance.net/joblist
+Web Name: TopCoder
+Link: http://www.topcoder.com/
+Web Name: WordPress
+Link: http://jobs.wordpress.net/
+Web Name: Computer Assistant
+Link: http://www.computerassistant.com/
+Web Name: Coroflot
+Link: http://www.coroflot.com/jobs
+Web Name: Dice
+Link: http://www.dice.com/
+Web Name: CrowdSpring
+Link: https://www.crowdspring.com/
+Web Name: SEOClerks
+Link: https://www.seoclerks.com/
+Web Name: WPHired
+Link: http://www.wphired.com/
+Web Name: GuruLink
+Link: https://www.gurulink.ca/
+Web Name: Folyo
+Link: http://www.folyo.me/
+Web Name: Workhoppers
+Link: https://www.workhoppers.com/en/
+Web Name: Authentic Jobs
+Link: http://www.authenticjobs.com/
+Web Name: RapidWorkers
+Link: http://www.rapidworkers.com/
+Web Name: Working Nomads
+Link: http://www.workingnomads.co/
+Web Name: Tutor
+Link: http://www.tutor.com/
+Web Name: Bark
+Link: https://www.bark.com/
+Web Name: Short Task
+Link: http://www.shorttask.com/
+Web Name: Taskr
+Link: http://www.taskr.in/
+Web Name: Staff
+Link: https://www.staff.com/
+Web Name: Matchist
+Link: https://matchist.com/
+Web Name: Localancers
+Link: http://localancers.com/
+Web Name: Nexxt
+Link: https://www.nexxt.com/
+Web Name: Problogger Jobs
+Link: http://jobs.problogger.net/
+Web Name: Freelance Writing Gigs
+Link: http://freelancewritinggigs.com/
+Web Name: Editorial Freelancers Association
+Link: http://www.the-efa.org/
+Web Name: Government Bids
+Link: http://www.governmentbids.com/
+Web Name: Morning Coffee Newsletter
+Link: http://www.freelancewriting.com/newsletters/morning-coffee-freelance-writing-jobs.php
+Web Name: SkillValue
+Link: https://skillvalue.com/en/
+Web Name: Journalism Jobs
+Link: http://www.journalismjobs.com/index.cfm
+Web Name: Funds For Writers
+Link: http://fundsforwriters.com/
+Web Name: Kuhustle
+Link: https://www.kuhustle.com/
+Web Name: TheShelf
+Link: http://www.theshelf.com/
+Web Name: Online Writing Jobs
+Link: http://www.onlinewritingjobs.com/
+Web Name: Twine
+Link: https://www.twine.net/
+Web Name: Web NameBroker
+Link: https://www.Web Namebroker.com/
+Web Name: RedGage
+Link: http://www.redgage.com/landing
+Web Name: Task Army
+Link: http://taskarmy.com/
+Web Name: Scribendi
+Link: http://www.scribendi.com/
+Web Name: Dribbble
+Link: https://dribbble.com/jobs
+Web Name: Art Wanted
+Link: http://www.artwanted.com/
+Web Name: Worksome
+Link: https://www.worksome.com/
+Web Name: Gigster
+Link: https://gigster.com/
+Web Name: Programmer Meet Designer
+Link: http://www.programmermeetdesigner.com/
+Web Name: Crowdsite
+Link: https://www.crowdsite.com/
+Web Name: Freelance Writing Jobs
+Link: https://www.freelancewritingjobs.com/
+Web Name: DesignCrowd
+Link: http://www.designcrowd.com/
+Web Name: JavaScript Ninja Jobs
+Link: http://jobs.jsninja.com/
+Web Name: Writer Bay
+Link: http://www.writerbay.com/
+Web Name: Duotrope
+Link: https://duotrope.com/
